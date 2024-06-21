@@ -42,7 +42,7 @@ For this assignment, we used Google Lighthouse to assess a number of Malaysian g
 
 Task 2: Web page
 
-https://izzuddin0911github.io/hazim.github.io/ is the URL of the website.
+https://izzuddin0911github.io/izzuddin.github.io/ is the URL of the website.
 
 
 Observation

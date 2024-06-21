@@ -33,3 +33,32 @@ My name is Muhammad Izzuddin Bin Ahmad Fauzi. I am 21 years old who is an underg
 <a href="http://www.github.com/izzuddin0911"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=izzuddin0911&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/izzuddin0911" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzuddin0911&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+First Assignment: Report
+
+Observation
+
+
+For this assignment, we used Google Lighthouse to assess a number of Malaysian government websites, paying particular attention to SEO, best practices, accessibility, and performance. We discovered that although certain websites—such as the Ministry of Finance Malaysia (MOF)—performed well overall and excelled in specific areas, many others had serious flaws, especially with regard to performance and accessibility. To guarantee a better user experience, the Ministry of Education Malaysia (MOE) must prioritize improving the performance and accessibility of its website. As part of this assignment, I examined the websites, deciphered the Google Lighthouse metrics, and made recommendations for each site's practical enhancements.
+
+Task 2: Web page
+
+https://izzuddin0911github.io/hazim.github.io/ is the URL of the website.
+
+
+Observation
+
+I gained knowledge of the fundamentals of using HTML and CSS to create a personal website through this project. Knowing how to use grid layouts has been especially helpful because it guarantees that the website is aesthetically pleasing and well-organized. Furthermore, I've observed how effective CSS is at applying aesthetically pleasing and consistent styling throughout the website. Going forward, I understand how crucial it is to learn CSS and HTML more thoroughly in order to steer clear of potential design pitfalls and produce websites that are more polished and businesslike.
+
+Task 3: Github Electronic Portfolio
+
+Observation
+
+
+I concentrated on using GitHub to create and maintain a personal portfolio. I now have a better understanding of how to use GitHub for project management and version control thanks to this assignment. Because github is one of the biggest networking websites for computer science-related job scopes, this assignment has also made me realize how important it is to develop a portfolio there. One thing I should work on is using GitHub's more sophisticated features, like GitHub Pages, to make my e-portfolio work better and look better. All things considered, this assignment greatly aided in the development of my professional GitHub usage abilities.
+
+Reflection
+
+Using HTML, CSS, PHP, and MySQL to create a centralized campus bus system has been a worthwhile learning experience for me. I now know how to successfully integrate these technologies, guaranteeing safe user logins, putting real-time bus positioning updates into place\. The significance of user-friendly interfaces and security measures like data encryption and access controls have been highlighted by this project. All things considered, I've developed useful web development and database management skills, which are critical for creating dependable systems that improve operational effectiveness and efficiency on campus.
+
+
+
